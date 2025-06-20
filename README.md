@@ -1,4 +1,4 @@
-ARZY-G: The First Web4 Token Standard
+![ARZY-G Banner](./file_00000000c9f462468079676d7ac459ca.png) ARZY-G: The First Web4 Token Standard
 
   
 
