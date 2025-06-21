@@ -106,7 +106,21 @@ ARZY-G is open-source under MIT license. Developers can:
 
 If you build something — let the world know: #BuildOnARZYG
 
+## 🪙 ERC-20 Token: ARZYG_ERC20.sol
 
+To support broader interoperability with Web3 tools, wallets, and exchanges, ARZY-G includes a full ERC-20 compatible version:
+
+**🔧 Contract File:** `contracts/ARZYG_ERC20.sol`
+
+### 🔍 Key Features:
+- Fully ERC-20 compliant (transfer, balanceOf, approve, etc.)
+- `mint()` and `burn()` controlled by `reserve`
+- `changeReserve()` allows safe reassignment of authority
+- Ready for integration with DEXs and DeFi protocols
+
+📌 This wrapper maintains ARZY-G's identity while making it compatible with existing ERC-20 infrastructure.
+
+You can review or fork it here: [`contracts/ARZYG_ERC20.sol`](contracts/ARZYG_ERC20.sol)
 ---
 
 📜 License
