@@ -141,7 +141,18 @@ AI Assistant: GPT-4o (OpenAI)
 Genesis Token: NFT #001
 
 ---
+## 📄 Appendix A — ARZY-G Reference Code
 
+This appendix contains the official reference implementation of the ARZY-G Core logic —  
+a token born from verified usefulness, not mining or speculation.
+
+➡️ [Download Appendix A — ARZY-G_ReferenceCode.pdf](./ARZY-G_AppendixA_ReferenceCode.pdf)
+
+This contract demonstrates:
+- ✅ Reserve authority logic (`birthToken`)
+- 🧠 Usefulness-based minting
+- 📜 Work history tracking per user
+- 🔒 Controlled issuance (no public minting or transfer)
 ## 🌍 Featured Articles
 
 - 🪞 Mirror: [Web4 Has Already Begun](https://mirror.xyz/0x2B06FA1684C890d9b6A96006101e53Cec63c2113/oZTM72TDMehyD8XxCiKxm_T0_YzVY_RgylrCSC-JQd8)
