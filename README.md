@@ -143,10 +143,10 @@ Genesis Token: NFT #001
 ---
 ## 📄 Appendix A — ARZY-G Reference Code
 
-This appendix contains the official reference implementation of the ARZY-G Core logic —  
+This appendix contains the official reference implementation of the ARZY-G Core logic —
 a token born from verified usefulness, not mining or speculation.
 
-➡️ [Download Appendix A — ARZY-G_ReferenceCode.pdf](./ARZY-G_AppendixA_ReferenceCode.pdf)
+➡️ [Download Appendix A — ARZY-G_Whitepaper_AppendixA_Code.pdf](./ARZY-G_Whitepaper_AppendixA_Code.pdf)
 
 This contract demonstrates:
 - ✅ Reserve authority logic (`birthToken`)
